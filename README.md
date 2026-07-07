@@ -9,6 +9,11 @@ point clouds and algorithms into automated quality control.
 - 🌱 I'm currently learning **Python + AI** — from core language basics toward practical AI applications.
 - 💡 Ask me about **Halcon**, **point-cloud processing (PCL)**, or **industrial vision systems**.
 
+![My Stats](https://github-readme-stats.vercel.app/api?username=cheng-wj&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheng-wj&layout=compact)
+
+
 ### 🧰 Tech Stack
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
