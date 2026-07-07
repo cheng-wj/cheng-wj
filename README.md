@@ -8,7 +8,7 @@ point clouds and algorithms into automated quality control.
 - 🛠️ I build desktop tools with **.NET / WPF (C#)** and prototype vision pipelines in **Python**.
 - 🌱 I'm currently learning **Python + AI** — from core language basics toward practical AI applications.
 - 💡 Ask me about **Halcon**, **point-cloud processing (PCL)**, or **industrial vision systems**.
-- ⚡ Fun fact: outside of work I'm into **gaming, video editing and building PCs**.
+- ⚡ Fun fact: outside of work I'm into **GTA V, DaVinci Resolve,Sony a7c2 and building PCs**.
 
 ### 🧰 Tech Stack
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -18,6 +18,3 @@ point clouds and algorithms into automated quality control.
 ![PCL](https://img.shields.io/badge/-PCL-FF6F00?style=flat)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-### 📊 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=cheng-wj&show_icons=true&theme=tokyonight&locale=en)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheng-wj&layout=compact&theme=tokyonight&locale=en)
