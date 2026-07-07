@@ -17,7 +17,3 @@ point clouds and algorithms into automated quality control.
 ![Halcon](https://img.shields.io/badge/-Halcon-00A0E9?style=flat)
 ![PCL](https://img.shields.io/badge/-PCL-FF6F00?style=flat)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-### 📊 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=cheng-wj&show_icons=true&theme=default&locale=en)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheng-wj&layout=compact&locale=en)
