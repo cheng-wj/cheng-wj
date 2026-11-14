@@ -1,20 +1,28 @@
-## Hi there 👋
+# Hi, I'm Wenjie 👋
 
-I'm a machine vision engineer working on industrial inspection — turning cameras,
-point clouds and algorithms into automated quality control.
+**Machine vision engineer focused on industrial inspection, 3D point clouds, and visual measurement.**
 
-- 🔭 I'm currently working on **3D point-cloud inspection** and **machine-vision measurement**
-      (Halcon algorithms, camera calibration, dimensional metrology).
-- 🛠️ I build desktop tools with **.NET / WPF (C#)** and prototype vision pipelines in **Python**.
-- 🌱 I'm currently learning **Python + AI** — from core language basics toward practical AI applications.
-- 💡 Ask me about **Halcon**, **point-cloud processing (PCL)**, or **industrial vision systems**.
-- ⚡ Fun fact: outside of work I'm into **GTA V, DaVinci Resolve,Sony a7c2 and building PCs**.
+I work with cameras, point clouds, and algorithms to solve inspection and measurement problems. I also build desktop tools with C# / .NET / WPF to bring vision algorithms into usable applications.
 
-### 🧰 Tech Stack
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Halcon](https://img.shields.io/badge/-Halcon-00A0E9?style=flat)
-![PCL](https://img.shields.io/badge/-PCL-FF6F00?style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+## What I Work With
 
+- **Industrial vision:** HALCON algorithms, camera calibration, dimensional measurement, and inspection visualization.
+- **3D point clouds:** Point-cloud processing and inspection with PCL.
+- **Desktop development:** C#, .NET, and WPF, including image acquisition, configuration, and logging.
+
+## Projects & Learning
+
+| Project | About |
+| --- | --- |
+| [AOI Software Demo](https://github.com/cheng-wj/AOI_Software_Demo) | A personal machine vision software project with multi-camera acquisition, recipe configuration, logging, and inspection visualization. |
+| [My Deep Learning Journey](https://github.com/cheng-wj/MyDeepLearningCareer) | Python and PyTorch exercises and experiments, building toward practical data processing, model training, and evaluation. |
+
+## Currently Learning
+
+I'm working through **Python fundamentals and hands-on PyTorch**, with computer vision and industrial imaging as the direction. I document exercises, experiments, and problems along the way, aiming to write, run, and explain the code independently.
+
+## Beyond Work
+
+I enjoy GTA V, editing in DaVinci Resolve, photography with my Sony α7C II, and building PCs.
+
+Happy to connect over HALCON, point-cloud processing, and industrial vision systems.
